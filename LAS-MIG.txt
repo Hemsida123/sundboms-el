@@ -1,0 +1,9 @@
+FÄRDIGA WEBBFILER
+
+Ladda upp allt innehåll till GitHub Pages eller webbhotellets public_html. index.html ska ligga i roten och assets-mappen ska följa med. Ingen installation eller byggprocess behövs.
+
+Alla sidor är mobilanpassade. Kontakt sker genom telefon eller e-post. Mejllänkar öppnar besökarens mejlprogram. Ingen förfrågan skickas automatiskt.
+
+SEO: unika titlar och beskrivningar, kanoniska adresser, strukturerad företagsdata, sitemap.xml, robots.txt, svensk språkkod och bildbeskrivningar. Kanoniska adresser använder företagets originaldomän. Ändra dessa om en annan domän ska vara huvudadress. Ingen ranking garanteras.
+
+Uppgifterna är kontrollerade 25 november 2026. Omdömen återges med källa; inga påhittade recensioner.
